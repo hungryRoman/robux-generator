@@ -1,0 +1,88 @@
+body {
+    background-color: #222431;
+}
+.nadpis {
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #13141b;
+}
+.nadpisobrazek {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.info {
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    float:right;
+    margin-right: 15%;
+}
+.robux {
+    margin-left: 15%;
+    height: 40%;
+   float:left;
+   margin-top:1%;
+}
+.infoall {
+   margin-top: 10%;
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 100px;
+    color: red;
+    text-align: center;
+}
+.tutorial {
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 1100px;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.video {
+    margin-top: 500px;
+}
+
+.odpoved {
+    color: #ce0000;
+}
+.faq {
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 500px;
+}
+
+.stahnout {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    width: 35%;
+    padding-bottom: 300px;
+}
+
+.up {
+    position: fixed;
+    height: 8%;
+    right:15;
+    bottom:15;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
